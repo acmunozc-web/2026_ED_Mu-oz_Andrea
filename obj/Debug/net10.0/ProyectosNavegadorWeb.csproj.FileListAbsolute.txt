@@ -1,0 +1,14 @@
+C:\ProyectosNavegadorWeb\bin\Debug\net10.0\ProyectosNavegadorWeb.exe
+C:\ProyectosNavegadorWeb\bin\Debug\net10.0\ProyectosNavegadorWeb.deps.json
+C:\ProyectosNavegadorWeb\bin\Debug\net10.0\ProyectosNavegadorWeb.runtimeconfig.json
+C:\ProyectosNavegadorWeb\bin\Debug\net10.0\ProyectosNavegadorWeb.dll
+C:\ProyectosNavegadorWeb\bin\Debug\net10.0\ProyectosNavegadorWeb.pdb
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\ProyectosNavegadorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\ProyectosNavegadorWeb.AssemblyInfoInputs.cache
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\ProyectosNavegadorWeb.AssemblyInfo.cs
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\ProyectosNavegadorWeb.csproj.CoreCompileInputs.cache
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\ProyectosNavegadorWeb.dll
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\refint\ProyectosNavegadorWeb.dll
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\ProyectosNavegadorWeb.pdb
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\ProyectosNavegadorWeb.genruntimeconfig.cache
+C:\ProyectosNavegadorWeb\obj\Debug\net10.0\ref\ProyectosNavegadorWeb.dll
