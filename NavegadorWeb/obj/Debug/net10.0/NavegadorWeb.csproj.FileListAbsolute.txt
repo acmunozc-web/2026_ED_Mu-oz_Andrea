@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.exe
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.dll
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\bin\Debug\net10.0\NavegadorWeb.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.dll
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\refint\NavegadorWeb.dll
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.pdb
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\NavegadorWeb.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\GitHub\2026_ED_Mu-oz_Andrea\NavegadorWeb\obj\Debug\net10.0\ref\NavegadorWeb.dll
