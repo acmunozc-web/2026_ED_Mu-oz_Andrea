@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NavegadorWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7d6b8e88f61ca8d00ac008961160904a0349bec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e9bf66d9f28f5ff822f43641ab826b6b6c1389d")]
 [assembly: System.Reflection.AssemblyProductAttribute("NavegadorWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NavegadorWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
