@@ -1,0 +1,16 @@
+# ARBOL 1
+Universidad-Administracion
+Universidad-Tecnologias
+Universidad-Ciencias
+Tecnologias-Sistemas
+Tecnologias-Software
+Ciencias-Matematicas
+
+# ARBOL 2
+Empresa-Gerencia
+Gerencia-Desarrollo
+Gerencia-Soporte
+Desarrollo-Backend
+Desarrollo-Frontend
+Soporte-Redes
+Soporte-Servidores
